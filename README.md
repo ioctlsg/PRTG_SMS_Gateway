@@ -1,4 +1,4 @@
-# PRTG_SMS_Gateway
+# PRTG SMS Gateway
 
 There are 2 methods to use PRTG to delievery SMS notiifcation. Below would walk over the 2 methods
 
