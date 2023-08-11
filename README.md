@@ -31,7 +31,9 @@ SMS Traps that isn't configured on PRTG can be send directly to SMS gateway.
 
 Con of using this method
 
-PRTG OID can't
+Only PRTG OID is sent to SMS gateway. PRTG appends the additional information to PRTG but doesn't give a better picture of which device actually is sending the trap.
+
+https://github.com/ioctlsg/PRTG_SMS_Gateway/blob/main/Image%2011-8-23%20at%204.58%20PM.jpg
 
 
 
