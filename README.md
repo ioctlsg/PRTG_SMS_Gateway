@@ -1,6 +1,6 @@
 # PRTG SMS Gateway
 
-There are 2 methods to use PRTG to delievery SMS notiifcation. Below would walk over the 2 methods
+There are 2 methods to use PRTG to delievery SMS notiifcation. 
 
 # Method 1 - HTTP API
 
