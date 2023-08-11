@@ -21,7 +21,17 @@ No all fault can be captured Only devices configure on PRTG is captured.
 
 # Method 2 - SMTP Trap
 
-This method
+This method primarily uses SMTP trap on the device being monitored. 
+
+In the case PRTG genrates the SMTP trap to sms gateway when a Fault/Warning occurs. 
+
+Pro of using this method
+
+SMS Traps that isn't configured on PRTG can be send directly to SMS gateway.
+
+Con of using this method
+
+PRTG OID can't
 
 
 
