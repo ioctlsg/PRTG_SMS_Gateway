@@ -1,4 +1,4 @@
-# PRTG SMS Gateway(Greap Tech)
+# PRTG SMS Gateway(Grep Tech)
 
 There are 2 methods to use PRTG to delievery SMS notiifcation. 
 
