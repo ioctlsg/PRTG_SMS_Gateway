@@ -18,6 +18,7 @@ Con of using this method
 
 No all fault can be captured Only devices configure on PRTG is captured.
 
+![alt text](https://github.com/ioctlsg/PRTG_SMS_Gateway/blob/main/Image%2011-8-23%20at%205.07%20PM.jpg)
 
 # Method 2 - SMTP Trap
 
