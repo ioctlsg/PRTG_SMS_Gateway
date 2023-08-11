@@ -41,3 +41,5 @@ Only PRTG OID is sent to SMS gateway. PRTG appends the additional information to
 References
 
 https://www.grep.sg/http-sms-api/
+
+https://blog.paessler.com/sending-prtg-sms-notifications
