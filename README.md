@@ -12,7 +12,7 @@ Setting SMS deleivery for PRTG via API for GREP TECH SMS gateway
 
 Pro of using this method 
 
-All messages constant with PRTG. As the sms genrated is the actual fault/Warning capture by PRTG. 
+All messages constant with PRTG. As the sms genrated is the actual fault/Warning capture by PRTG. PRTG send directly the device fault/Warning via SMS.
 
 Con of using this method
 
