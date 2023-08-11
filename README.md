@@ -1,4 +1,4 @@
-# PRTG SMS Gateway
+# PRTG SMS Gateway(Greap Tech)
 
 There are 2 methods to use PRTG to delievery SMS notiifcation. 
 
@@ -22,7 +22,7 @@ No all fault can be captured Only devices configure on PRTG is captured.
 
 # Method 2 - SMTP Trap
 
-This method primarily uses SMTP trap on the device being monitored. 
+This method primarily uses SMTP trap on the device being monitored. An additional feature on the smsgateway need to be purchase. For GrepTech smsgateway a trap2sms plugin is required.
 
 In the case PRTG genrates the SMTP trap to sms gateway when a Fault/Warning occurs. 
 
