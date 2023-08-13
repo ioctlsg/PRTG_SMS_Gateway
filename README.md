@@ -26,6 +26,13 @@ No all fault can be captured Only devices configure on PRTG is captured.
 # Method 2 - SMTP Trap
 
 This method primarily uses SMTP trap on the device being monitored. An additional feature on the smsgateway need to be purchase. For GrepTech smsgateway a trap2sms plugin is required.
+GrepTech Smsgateway monitors all smtp traps send to it, upon receiving a sms trap, the Smsgateway would do a matching of the OID, when a OID matches the "configured OID" a sms notification would be sent.
+
+in short, the Smsgateway has no dependencies as long as it receives a smtp trap and matches in its configuration file it would send a sms.
+Therefore smtp devices can directly send smtp traps to the Smsgateway without the need of PRTG.
+
+this may or may not complicate the over monitoring design.
+
 
 In the case PRTG genrates the SMTP trap to sms gateway when a Fault/Warning occurs. 
 
