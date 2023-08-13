@@ -32,9 +32,7 @@ in short, the Smsgateway has no dependencies as long as it receives a smtp trap 
 Therefore smtp devices can directly send smtp traps to the Smsgateway without the need of PRTG.
 
 this may or may not complicate the over monitoring design.
-
-
-In the case PRTG genrates the SMTP trap to sms gateway when a Fault/Warning occurs. 
+In this case PRTG send a SMTP trap to sms gateway when a Fault/Warning occurs. 
 
 Pro of using this method
 
