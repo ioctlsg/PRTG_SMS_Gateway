@@ -1,6 +1,6 @@
 # PRTG SMS Gateway(Grep Tech)
 
-This readme document how to use Greptech Smsgateway with PRTG.
+This os a documentation on how to configure Greptech Smsgateway with PRTG.
 There are 2 methods to use PRTG to delievery SMS notiifcation. 
 
 # Method 1 - HTTP API
